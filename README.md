@@ -1,7 +1,8 @@
 # youlexuan
-github第一次使用-Test
-开始编辑README
-打开你的GitHub的某个项目，我们可以直接在线编辑你的README文件，如果你已经有了这个文件，则在文件目录中直接点击它，如果你还没有这个文件那么点击项目名称右边的一个按钮，来添加新文件：
+>开始编辑README
+>打开你的GitHub的某个项目，我们可以直接在线编辑你的README文件，
+>如果你已经有了这个文件，则在文件目录中直接点击它，
+>如果你还没有这个文件那么点击项目名称右边的一个按钮，来添加新文件：
 # Java-Interview-Question
 
 > 这里搜罗了网上的一些面试题，还有一些相关知识点，有一些是我站在面试官的角度自问的
@@ -36,6 +37,3 @@ https://github.com/jujunchen/ebook
 
 [视频资料地址](https://github.com/jujunchen/Java-interview-question/tree/master/学习资料)
 
-#### 交流平台
-
-![image-20191114204200585](https://tva1.sinaimg.cn/large/006tNbRwly1ga6zjor75uj30b9072gnk.jpg)
