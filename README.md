@@ -44,9 +44,6 @@ https://github.com/jujunchen/ebook
 
 [学习资料地址](https://github.com/jujunchen/Java-interview-question/tree/master/学习资料)
 
-#### 交流平台
-
-![阿提说说](https://tva1.sinaimg.cn/large/007S8ZIlly1ggv0xy8u89j305805675g.jpg)
 
 
 
