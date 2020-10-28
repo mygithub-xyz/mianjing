@@ -1,14 +1,6 @@
-# 面经
-> 开始编辑README
->
-> 打开你的GitHub的某个项目，我们可以直接在线编辑你的README文件，
->
-> 如果你已经有了这个文件，则在文件目录中直接点击它，
->
-> 如果你还没有这个文件那么点击项目名称右边的一个按钮，来添加新文件：
-# Java-Interview-Question
+# 阅读介绍
 
-> 这里搜罗了网上的一些面试题，还有一些相关知识点，有一些是我站在面试官的角度自问的
+> 这里搜罗了网上的一些面试题，还有一些相关知识点
 >
 > 里面的一些问题如感觉有不对的地方，欢迎指正。  
 >
@@ -16,13 +8,25 @@
 
 ### Java面试题整理
 
-| 基础                                                         |                             并发                             |                              锁                              |                             JVM                              |                           设计模式                           |                           数据结构                           |                           反射/IO                            | 面经                                                         |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [🍼](https://github.com/jujunchen/Java-interview-question/blob/master/1.%20Java%E5%9F%BA%E7%A1%80.md) | [🍭](https://github.com/jujunchen/Java-interview-question/blob/master/2.%20Java%E5%B9%B6%E5%8F%91.md) | [🍩](https://github.com/jujunchen/Java-interview-question/blob/master/3.%20%E9%94%81.md) | [🌮](https://github.com/jujunchen/Java-interview-question/blob/master/4.%20JVM%E7%9F%A5%E8%AF%86.md) | [🍱](https://github.com/jujunchen/Java-interview-question/blob/master/6.%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md) | [🧀](https://github.com/jujunchen/Java-interview-question/blob/master/7.%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md) | [🥐](https://github.com/jujunchen/Java-interview-question/blob/master/5.%20Java%E5%8F%8D%E5%B0%84IO.md) | [🍜](https://github.com/jujunchen/Java-interview-question/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F) |
+| 基础                                                         |                             并发                             |                              锁                              |                             JVM                              |                           设计模式                           |                           数据结构                           |                           反射/IO                            | 面经                                                         |                            Spring                            |                         Spring Boot                          |
+| ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [🍼](https://github.com/jujunchen/Java-interview-question/blob/master/1.Java%20Based.md) | [🍭](https://github.com/jujunchen/Java-interview-question/blob/master/2.Java%20Concurrent.md) | [🍩](https://github.com/jujunchen/Java-interview-question/blob/master/3.Java%20Lock.md) | [🌮](https://github.com/jujunchen/Java-interview-question/blob/master/4.JVM.md) | [🍱](https://github.com/jujunchen/Java-interview-question/blob/master/6.Design%20Pattern.md) | [🧀](https://github.com/jujunchen/Java-interview-question/blob/master/7.Data%20Structure.md) | [🥐](https://github.com/jujunchen/Java-interview-question/blob/master/5.Java%20Reflect_IO.md) | [🍜](https://github.com/jujunchen/Java-interview-question/blob/master/Other%20Interview.md) | [🍬](https://github.com/jujunchen/Java-interview-question/blob/master/10.Spring.md) | [🍫](https://github.com/jujunchen/Java-interview-question/blob/master/11.Spring%20Boot.md) |
 
-|                            数据库                            |                            Redis                             |                            Spring                            |                           消息队列                           |                            分布式                            |                          Zookeeper                           |                            Dubbo                             |                         Spring Cloud                         |                           Mybatis                            |                            Maven                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [🌽](https://github.com/jujunchen/Java-interview-question/blob/master/8.%20%E6%95%B0%E6%8D%AE%E5%BA%93.md) | [🍔](https://github.com/jujunchen/Java-interview-question/blob/master/9.%20Redis.md) | [🍬](https://github.com/jujunchen/Java-interview-question/blob/master/10.%20Spring.md) | [🍡](https://github.com/jujunchen/Java-interview-question/blob/master/14.%20%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.md) | [🎂](https://github.com/jujunchen/Java-interview-question/blob/master/19.%20%E5%88%86%E5%B8%83%E5%BC%8F%E3%80%81%E5%BE%AE%E6%9C%8D%E5%8A%A1.md) | [🍯](https://github.com/jujunchen/Java-interview-question/blob/master/16.%20Zookeeper.md) | [🥛](https://github.com/jujunchen/Java-interview-question/blob/master/12.%20Dubbo.md) | [☕️](https://github.com/jujunchen/Java-interview-question/blob/master/13.%20Spring%20Cloud.md) | [🍿](https://github.com/jujunchen/Java-interview-question/blob/master/15.%20Mybatis.md) | [🍹](https://github.com/jujunchen/Java-interview-question/blob/master/15.%20Mybatis.md) |
+|                            数据库                            |                            Redis                             |                           消息队列                           |                            分布式                            |                          Zookeeper                           |                            Dubbo                             |                         Spring Cloud                         |                           Mybatis                            |                            Maven                             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [🌽](https://github.com/jujunchen/Java-interview-question/blob/master/8.DataBase.md) | [🍔](https://github.com/jujunchen/Java-interview-question/blob/master/9.Redis.md) | [🍡](https://github.com/jujunchen/Java-interview-question/blob/master/14.Message%20Queue.md) | [🎂](https://github.com/jujunchen/Java-interview-question/blob/master/19.Distribute_MicroService.md) | [🍯](https://github.com/jujunchen/Java-interview-question/blob/master/16.Zookeeper.md) | [🥛](https://github.com/jujunchen/Java-interview-question/blob/master/12.Dubbo.md) | [☕️](https://github.com/jujunchen/Java-interview-question/blob/master/13.Spring%20Cloud.md) | [🍿](https://github.com/jujunchen/Java-interview-question/blob/master/15.Mybatis.md) | [🍹](https://github.com/jujunchen/Java-interview-question/blob/master/17.Maven.md) |
+
+### 一些官方文档地址
+
+Java:https://docs.oracle.com/en/java/index.html
+
+Spring:https://spring.io/guides
+
+Redis :https://redis.io/documentation
+
+Dubbo：http://dubbo.apache.org/zh-cn/docs/user/quick-start.html
+
+ShardingJDBC:https://shardingsphere.apache.org/document/current/cn/features/
 
 ### 在线阅读
 
@@ -36,7 +40,17 @@ https://www.yuque.com/itsaysay/mzsmvg
 
 https://github.com/jujunchen/ebook
 
-### 视频资料
+### 学习资料
 
-[视频资料地址](https://github.com/jujunchen/Java-interview-question/tree/master/学习资料)
+[学习资料地址](https://github.com/jujunchen/Java-interview-question/tree/master/学习资料)
+
+#### 交流平台
+
+![阿提说说](https://tva1.sinaimg.cn/large/007S8ZIlly1ggv0xy8u89j305805675g.jpg)
+
+
+
+
+
+
 
